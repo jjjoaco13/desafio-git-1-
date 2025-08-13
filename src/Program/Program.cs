@@ -10,45 +10,15 @@ Console.WriteLine(Division.Divide(18, 2));
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-public class Multiplication
+public class Substraction
 {
-    public static int Multiply(int a, int b)
+    public static int Substract(int a, int b)
     {
-        return a * b;
+        return a - b;
     }
 }
+
+
 
 
 
