@@ -17,7 +17,7 @@ public class Substraction
         return a - b;
     }
 }
-
+// Esta clase implementa la operación division
 public classs Division
 {
     public static double Divide(int a, int b)
