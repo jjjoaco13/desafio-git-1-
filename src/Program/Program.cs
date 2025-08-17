@@ -5,12 +5,6 @@ Console.WriteLine(Division.Divide(18, 2));
 
 
 
-
-
-
-// Esta clase implementa la operación division
-public classs Division
-
 // Esta clase implementa la operación <nombre-operación>
 public class Addition
 
