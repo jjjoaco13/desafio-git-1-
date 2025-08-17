@@ -7,34 +7,18 @@ Console.WriteLine(Division.Divide(18, 2));
 
 
 
+
 // Esta clase implementa la operación division
 public classs Division
+
+// Esta clase implementa la operación <nombre-operación>
+public class Addition
+
 {
-    public static double Divide(int a, int b)
+    public static int Add(int a, int b)
     {
-        return (double)a / b;
+        return a + b;
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
