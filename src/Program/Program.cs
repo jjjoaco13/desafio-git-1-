@@ -19,7 +19,7 @@ public class Substraction
     public static int Substract(int a, int b)
     {
        // return a - b;
-       return 0 //error
+       return 0; //error
     }
 }
 // Esta clase implementa la operación division
