@@ -9,7 +9,8 @@ public class Addition
 {
     public static int Add(int a, int b)
     {
-        return a + b;
+        return 0; //cambio incorrecto
+        
     }
 }
 
@@ -22,7 +23,7 @@ public class Substraction
     }
 }
 // Esta clase implementa la operación division
-public classs Division
+public class Division
 {
     public static double Divide(int a, int b)
     {
